@@ -1,5 +1,5 @@
-.header {
-    text-align: center;
+h5 {
+    font-size: larger;
 }
 
 .intro {
@@ -9,4 +9,23 @@
 
 .picture1 {
     width: 500px;
+
+}
+
+.repoProjects{
+    text-align: center;
+    font-size: larger;
+    float: left;
+    margin-top: 5px;
+    padding: 2px;
+}
+
+.aboutMe {
+    float: left;
+    font-size: larger;
+}
+
+h6 {
+    text-align: center;
+    font-size: larger;
 }
