@@ -13,7 +13,7 @@
 
 ## Description
 
-_A Code Review Project from Aaron Demski, In this repository you'll find my index.html Website, css/styles.css, and obviously the README.md._
+_A Code Review Project from Aaron Demski, In this repository you'll find index.html, css/styles.css, and obviously the README.md. This repo is a website made all about me so you can learn a little bit more about me! Hope you enjoy._
 
 ## Setup/Installation Requirements
 
