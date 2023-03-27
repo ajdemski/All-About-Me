@@ -1,10 +1,12 @@
 h5 {
     font-size: larger;
+    
 }
 
 .intro {
     font-weight: lighter;
     font-size: larger;
+    
 }
 
 .picture1 {
@@ -18,14 +20,18 @@ h5 {
     float: left;
     margin-top: 5px;
     padding: 2px;
+    border: 2px;
+    
 }
 
 .aboutMe {
     float: left;
     font-size: larger;
+    
 }
 
 h6 {
     text-align: center;
     font-size: larger;
+    
 }
